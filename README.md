@@ -33,3 +33,5 @@ The main controller is STM32F103, and AD9833 is used to realize DDS waveform out
 The system can output different types of waveforms with adjustable frequency.
 
 > Note: This project is for graduation design display.
+> Add project introduction, schematic link and demo images for STM32 AD9833 signal generator graduation design.
+
